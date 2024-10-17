@@ -1,2 +1,1 @@
-# logic
-Logic Gamemode
+# Logic Gamemode
