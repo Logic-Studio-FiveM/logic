@@ -18,4 +18,7 @@ server_scripts {
 
     -- Modules
     'modules/deferrals/server/*.lua',
+
+    -- All
+    'server/playerConnecting.lua'
 }
