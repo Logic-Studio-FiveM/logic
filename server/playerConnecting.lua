@@ -4,4 +4,4 @@ AddEventHandler('playerConnecting', function(name, setKickReason, d)
     Wait(50)
     
     registerHomeCard(d)
-end)
+end) 
